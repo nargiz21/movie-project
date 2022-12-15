@@ -1,0 +1,24 @@
+
+
+.main-page__content {
+    height: 100%;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.main-page__main-section {
+    padding-left: 40px;
+    box-sizing: border-box;
+    width: 60%;
+}
+
+.main-page__search-box {
+    margin-bottom: 35px;
+}
+
+.main-page__favorites {
+    width: 35%;   
+}
